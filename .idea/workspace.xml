@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21b39cc-0400-400d-98b8-ddc61d87a277" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c21b39cc-0400-400d-98b8-ddc61d87a277" name="Changes" comment="цау">
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/ClassicalMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/TeasBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/TeasBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/TeasBean.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/webapp/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -20,11 +22,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,7 +56,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "fb1d78dee4a85ca4d19175bbe8610ec3"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,7 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1651830127837</updated>
       <workItem from="1651830129835" duration="3644000" />
+      <workItem from="1652129484205" duration="3507000" />
     </task>
+    <task id="LOCAL-00001" summary="цау">
+      <created>1652129551696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652129551696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="цау" />
+    <option name="LAST_COMMIT_MESSAGE" value="цау" />
   </component>
 </project>
